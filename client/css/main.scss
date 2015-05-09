@@ -1,0 +1,22 @@
+@import "compass/reset";
+
+body {
+    font-family: Tahoma, sans-serif;
+    font-size: 20px;
+    background: rgba(0,0,0,0.4);
+}
+
+.hello {
+    background: #000000;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+    opacity: 0.7;
+}
+
+#games {
+    canvas {
+        margin: 0 auto;
+    }
+}
